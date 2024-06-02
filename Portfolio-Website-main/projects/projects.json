@@ -1,0 +1,49 @@
+[
+    {
+      "name": "Shoes Ordering Website",
+      "desc": "A Shoes ordering Website implemented using Java,Html,CSS,JSP,JDBC and MYSQL.",
+      "image": "shoes",
+      "category": "webdev",
+      "links": {
+        "view": "https://github.com/EshaanPadhye2611/Shoes_Ordering_Site_Project",
+        "code": "https://github.com/EshaanPadhye2611/Shoes_Ordering_Site_Project"
+      }
+    },
+
+    {
+        "name": "Daily Lecture Record ",
+        "desc": "The Daily Lecture Record System (DLRS) is designed to streamline the process of recording, tracking, and analyzing lecture activities.",
+        "image": "dlr",
+        "category": "dailylec",
+        "links": {
+          "view": "https://github.com/EshaanPadhye2611/Daily_Lecture_Record_System",
+          "code": "https://github.com/EshaanPadhye2611/Daily_Lecture_Record_System"
+        }
+      },
+
+      {
+        "name": "Hospital Management System",
+        "desc": "The Hospital Management System is a software application designed to facilitate the efficient management of hospital operations, patient records, and prescriptions. ",
+        "image": "hospital",
+        "category": "hosp",
+        "links": {
+          "view": "https://github.com/EshaanPadhye2611/Hospital_Management",
+          "code": "https://github.com/EshaanPadhye2611/Hospital_Management"
+        }
+      },
+
+      {
+        "name": "Company Network System",
+        "desc": "The primary objective was to establish a scalable, reliable, and secure network infrastructure to support the operational needs of 600 staff across various departments.",
+        "image": "company",
+        "category": "company",
+        
+        "links": {
+          "view": "https://github.com/EshaanPadhye2611/Company_Network_System",
+          "code": "https://github.com/EshaanPadhye2611/Company_Network_System"
+        }
+      }
+     
+     
+      
+    ]
